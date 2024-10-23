@@ -7,7 +7,7 @@ The task is to build an API that does the following:
 - Return the findings (non-compliant results) in the response
 
 
-## Quick Start (for Linux and Mac)
+## Instructions to Start usage
 
 ```
 # clone the repository:
