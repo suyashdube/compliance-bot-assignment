@@ -10,8 +10,8 @@ The task is to build an API that does the following:
 ## Instructions to Start usage
 
 ```
-# clone the repository:
-git clone https://github.com/sounritesh/compliance-bot.git
+# clone the repository
+
 
 # change directory to the repository root
 cd compliance-bot
